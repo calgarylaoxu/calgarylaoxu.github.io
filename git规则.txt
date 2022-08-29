@@ -1,0 +1,2 @@
+1:push前输入以下指令
+find . -name "desktop*.ini" -type f -print -exec rm -rf {} \;
