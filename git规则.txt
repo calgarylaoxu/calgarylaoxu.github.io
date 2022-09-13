@@ -1,2 +1,5 @@
-1:push前输入以下指令
+---跳转目录
+cd "/G/My Drive/calgarylaoxu.github.io"
+
+---push前输入以下指令
 find . -name "desktop*.ini" -type f -print -exec rm -rf {} \;
